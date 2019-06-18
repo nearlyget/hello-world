@@ -1,0 +1,1 @@
+,tarena,tarena,14.06.2019 19:41,file:///home/tarena/.config/libreoffice/4;
